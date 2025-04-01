@@ -1,4 +1,4 @@
-# TSP
+
 
 # Simulated Annealing for TSP with Live Visualization
 
