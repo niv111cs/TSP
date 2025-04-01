@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\TSP_Visual\TSP_Visual\bin\Debug\TSP_Visual.exe.config
+C:\Users\user\source\repos\TSP_Visual\TSP_Visual\bin\Debug\TSP_Visual.exe
+C:\Users\user\source\repos\TSP_Visual\TSP_Visual\bin\Debug\TSP_Visual.pdb
+C:\Users\user\source\repos\TSP_Visual\TSP_Visual\obj\Debug\TSP_Visual.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TSP_Visual\TSP_Visual\obj\Debug\TSP_Visual.Properties.Resources.resources
+C:\Users\user\source\repos\TSP_Visual\TSP_Visual\obj\Debug\TSP_Visual.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TSP_Visual\TSP_Visual\obj\Debug\TSP_Visual.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TSP_Visual\TSP_Visual\obj\Debug\TSP_Visual.exe
+C:\Users\user\source\repos\TSP_Visual\TSP_Visual\obj\Debug\TSP_Visual.pdb
